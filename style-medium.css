@@ -1,0 +1,40 @@
+@media screen and (min-width: 540px) {
+    
+#top-h1 {  font-size: 1.35em;
+           padding-left: 7.5%;}
+#top-h2 {
+        font-size: 2.2em;
+        color:#0b8274;
+        text-wrap: nowrap;
+        text-align: right;
+        padding-right: 7.5%;}
+
+#top{    margin: 2.7% 2.7%;   }
+
+/*--Menu nav----------------------------------*/
+
+
+/*-- flex main -----------------------------*/
+
+#main{
+    
+    flex-direction: row-reverse;
+    margin: auto 3%;
+}
+
+.PSection{
+    flex-direction:row;
+    flex-wrap: wrap;
+    
+    min-width: 40%;
+    max-width: 75%;
+  }
+  
+.text{
+    font-size: 1.2em; 
+}
+#rigthSide{
+    min-width: 35%;
+    max-width: 60%;
+  }
+}
