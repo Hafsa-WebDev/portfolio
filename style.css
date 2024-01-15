@@ -43,6 +43,9 @@ h1{
 #top-h1 { font-size: 1.2em;
           padding-left: 10%;
           }
+.iconDev{height:1em;
+        width: auto;
+        margin-block-end: -4px;}
 #top-h2 {
         font-size: 1.5em;
         color:#0b8274;
@@ -77,8 +80,8 @@ h1{
     font-size: 1em; 
     color:#da8a2b;
     padding-left: 5%;
+    margin-top: 0%;
     background-color: #222222;
-    margin: 0px;
     border-top-left-radius: 1em;
     border-top-right-radius: 1em;
 }
@@ -103,7 +106,13 @@ h1{
     border-top-left-radius: 1em;
     border-bottom-left-radius: 1em; 
     border-top-right-radius: 1em;
+    min-width: 250px;
     color: white;
+}
+.skillsList{
+    margin: 1em auto;}
+.educ{
+    margin: 1em .6em;
 }
 .orange{
     color:#da8a2b;
@@ -138,8 +147,8 @@ p {
     text-shadow: 4px 6px #000;
   }
   .contantIcon{
-    padding-left: .8em;
-    padding-right: .8em;
+    padding-left: .3em;
+    padding-right: .7em;
   }
 /*-- flex main -----------------------------*/
 

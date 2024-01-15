@@ -11,6 +11,9 @@
     #top{
         margin: 2% 2%;
     }
+    
+.iconDev{
+    margin-block-end: -6px;}
 
     .text{
         font-size: 1.5em; 
