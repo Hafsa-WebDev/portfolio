@@ -2,7 +2,7 @@
 
 .Anim {
     transform-origin: 126.786% -127.679%;
-    animation: demo-animation 3s linear 0s 1 normal both running;
+    animation: demo-animation 3s linear 0.3s 1 normal both running;
 }
 
 @keyframes demo-animation {
